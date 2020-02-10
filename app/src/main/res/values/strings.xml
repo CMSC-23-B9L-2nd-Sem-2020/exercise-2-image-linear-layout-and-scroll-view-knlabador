@@ -1,0 +1,123 @@
+<!--
+  ~ Copyright (C) 2018 Google Inc.
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     http://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <!-- App title -->
+    <string name="app_name">exer2_labador_b9l</string>
+    <string name="main_desc">Which Avenger Character are you?</string>
+    <string name="start_desc">You are</string>
+    <!-- Button label -->
+    <string name="roll_label">Start</string>
+    <string name="reset_label">Retry</string>
+    <string name="reset_desc">Find out which Avenger character are you!</string>
+
+    <string name="antman">
+        <b>ANT MAN</b>
+        \nFormer thief Scott Lang once stole an advanced size-altering
+        suit in order to aid his ailing daughter, only to discover
+        that the stolen tech belonged to the world-renowned Dr. Hank
+        Pym. Seeing the heroic potential within him, Dr. Pym allowed
+        Scott to continue using the suit, as well as the identity Pym
+        once battled evil under. As the Astonishing Ant-Man, Scott now
+        handles the jobs "too small" for any other Super Hero.
+    </string>
+    <string name="blackwidow">
+        <b>BLACK WIDOW</b>
+        \nS.H.I.E.L.D. Agent Natasha Romanoff, aka Black Widow (Scarlett
+        Johansson), is one of the world’s greatest spies and quite
+        possibly the world’s most skilled assassin. Armed with an
+        extensive arsenal of specialized weapons like widow stings and
+        cluster bombs, as well as a vast repertoire of martial arts skills,
+        Romanoff’s unique talents make her one of director Fury’s top
+        agents and an integral part in assembling The Avengers.
+    </string>
+    <string name="captainamerica">
+        <b>CAPTAIN AMERICA</b>
+        \nAfter a top secret Super-Soldier program transformed frail Steve
+        Rogers (Chris Evans) into the powerful and heroic Captain America,
+        his amazing WWII exploits made him a living legend. Steve saved New
+        York City and turned the tide of the war, but crashed into the Arctic
+        during his final mission. Awakening in the modern day, Steve learned
+        that he had spent decades frozen in the icy tundra. Now, Steve Rogers
+        finds himself alone in a modern world that he hardly recognizes.
+    </string>
+    <string name="captainmarvel">
+        <b>CAPTAIN MARVEL</b>
+        \nFormer Air Force pilot and intelligence agent Carol Danvers pursued
+        her dream of space exploration as a NASA employee, but her life forever
+        changed when she was accidentally transformed into a human-Kree hybrid
+        with extraordinary powers.
+    </string>
+    <string name="hawkeye">
+        <b>HAWKEYE</b>
+        \nOne of S.H.I.E.L.D.’s most elite agents, Clint Barton (Jeremy Renner),
+        code-named Hawkeye, is the greatest living marksman on Earth. Armed with
+        his weapon of choice, the recurve bow, Hawkeye fires his arsenal of custom
+        augmented arrows, specialized for any number of specific situations, with
+        perfect precision. With the potential for global catastrophe on the horizon,
+        he employs his amazing combat skills to fight along side The Avengers.
+    </string>
+    <string name="hulk">
+        <b>HULK</b>
+        \nAfter a gamma radiation experiment went awry, mild-mannered scientist Dr.
+        Bruce Banner (Mark Ruffalo) found himself with a peculiar condition. When
+        angered or provoked, he would transform into the uncontrollable, green-skinned
+        monster known as the Hulk. Now, fearful of the damage that the Hulk could
+        inflict, Dr. Banner chooses to live a discreet life in remote parts of the world,
+        working to cure the sick and help the poor while trying to elude those who would
+        take advantage of his ability to change into the enormous, green menace. When a
+        mounting threat calls for Banner’s specialized scientific expertise, S.H.I.E.L.D.
+        Director Nick Fury recruits him, knowing full well that the incredible strength
+        of Banner’s alter ego, the Hulk, would be an asset to The Avengers.
+    </string>
+    <string name="ironman">
+        <b>IRON MAN</b>
+        \nOn top of being an eccentric genius, a billionaire, a playboy and a philanthropist,
+        Tony Stark (Robert Downey Jr.) is also the armored super hero known as Iron Man.
+        Fresh off of defeating enemies the world over, Stark reluctantly agreed to serve
+        as a consultant to Nick Fury’s top-secret peacekeeping and intelligence agency
+        known as S.H.I.E.L.D. Now, with a global crisis on the horizon and the fate of the
+        world in the balance, Stark must again power up his Iron Man armor to save the world,
+        and become a full-fledged member of The Avengers.
+    </string>
+    <string name="okoye">
+        <b>OKOYE</b>
+        \nOkoye serves with distinction as head of the Dora Milake, a ceremonial order of
+        warrior women tasked with protecting the leader of Wakanda. A traditionalist at heart,
+        Okoye places her duty to the king above all else, who in turn trusts her as one of his
+        top advisors. With her fierce and noble spirit, Okoye is prepared to make any sacrifice
+        to keep her people safe and free.
+    </string>
+    <string name="thor">
+        <b>THOR</b>
+        \nAn arrogant prince from the distant land of Asgard, Thor (Chris Hemsworth) was banished
+        to Earth after his irresponsible behavior threatened his homeland. While in exile on
+        Earth, Thor learned humility and helped to save his new friends from a destructive threat
+        sent by his brother Loki. In the process, Thor redeemed himself in the eyes of his father,
+        Odin, the King of Asgard. After being welcomed back to Asgard as a hero, Thor must now return
+        to Earth once again to prevent a cosmic-level catastrophe. With Mjolnir in his hand, a
+        legendary hammer with immense power, the mighty warrior soon finds himself drawn into an
+        unlikely alliance with Nick Fury’s secret initiative, The Avengers, lending his power to their
+        cause against his wayward brother, Loki.
+    </string>
+    <string name="warmachine">
+        <b>WAR MACHINE</b>
+        \nU.S. Air Force Colonel James "Rhodey" Rhodes has long served as both Tony Stark\'\s best
+        friend and Special Liaison to Stark Industries. In battle, Rhodey dons the War Machine armor, a
+        modified version of Stark\'\s own Iron Man suit. Armed with a modular Gatling cannon and enough
+        firepower to take on a legion of enemies, the War Machine is a true one man army.
+    </string>
+
+</resources>
