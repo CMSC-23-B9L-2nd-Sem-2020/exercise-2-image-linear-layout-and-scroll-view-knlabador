@@ -1,4 +1,4 @@
-Dice Roller - Solution Code
+Character Randomizer - Solution Code
 ===========================
 
 Solution code for Android Kotlin Fundamentals Codelab 1.2: Get Started
@@ -6,9 +6,9 @@ Solution code for Android Kotlin Fundamentals Codelab 1.2: Get Started
 Introduction
 ------------
 
-DiceRoller demonstrates simple interactivity in an Android app.
-It contains one button that updates a text view with a random
-value between 1 and 6.
+CharacterRandomizer demonstrates simple interactivity in an Android app.
+It contains two buttons that randomizes a character with a random
+value between 1 and 10 and restarts the application.
 
 Pre-requisites
 --------------
